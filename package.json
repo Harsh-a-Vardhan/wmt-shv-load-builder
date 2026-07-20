@@ -1,0 +1,17 @@
+{
+  "name": "wmt-shv-load-builder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch Walmart freight tenders, sanitize them per SHV rules, and push them into the SHV Logistics TMS.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
